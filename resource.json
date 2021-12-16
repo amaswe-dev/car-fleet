@@ -1,0 +1,82 @@
+[
+    {
+        "id":    "98071271-c04c-4353-9bc9-4a8f9f2913fe",
+        "brand": "Volvo",
+        "model": "S60"
+    },
+    {
+        "id":    "b0b5d03e-47a9-470e-94f2-1fec565a5093",
+        "brand": "Lotus",
+        "model": "Evija"
+    },
+    {
+        "id":    "4615d218-9edd-4969-87cd-1a53878aa355",
+        "brand": "Link&Co",
+        "model": "02"
+    },
+    {
+        "id":    "e14c4cd9-5ec3-4fc6-8376-cdc7c7ae6f55",
+        "brand": "Volvo",
+        "model": "V90"
+    },
+    {
+        "id":    "503ad0ee-19c7-4a8c-b54b-89b47b721a72",
+        "brand": "Link&Co",
+        "model": "01"
+    },
+    {
+        "id":    "40190405-c579-418e-a8f8-6298c24ecb9f",
+        "brand": "Volvo",
+        "model": "C40"
+    },
+    {
+        "id":    "26bf782c-f1d5-445b-bc30-6dc12180cef1",
+        "brand": "Volvo",
+        "model": "S90"
+    },
+    {
+        "id":    "9f015629-944e-439a-afde-9e3279b7a57e",
+        "brand": "Zeekr",
+        "model": "001"
+    },
+    {
+        "id":    "565e7155-e8c5-488f-83da-a63612421aa7",
+        "brand": "Lotus",
+        "model": "Emira"
+    },
+    {
+        "id":    "72b428d5-535c-416b-8a41-ee67ade5eae2",
+        "brand": "Polestar",
+        "model": "Polestar 1"
+    },
+    {
+        "id":    "c4c91200-5feb-4dfd-861e-5fc0791e2cff",
+        "brand": "Volvo",
+        "model": "S90"
+    },
+    {
+        "id":    "5c62fa6f-dabb-433a-8330-93ebc0f2a165",
+        "brand": "Volvo",
+        "model": "XC60"
+    },
+    {
+        "id":    "a6e49a73-cb62-47db-b420-3a89108598b2",
+        "brand": "Volvo",
+        "model": "C40"
+    },
+    {
+        "id":    "9925106b-9753-4137-b177-8e3d981d7af4",
+        "brand": "Polestar",
+        "model": "Polestar 2"
+    },
+    {
+        "id":    "d06373ca-8cd9-4027-ab45-752bf669189a",
+        "brand": "Lotus",
+        "model": "Evija"
+    },
+    {
+        "id":    "5d25e736-daf7-4121-8385-96da1d220bf4",
+        "brand": "Polestar",
+        "model": "Polestar 1"
+    }
+]
